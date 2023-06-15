@@ -1,4 +1,4 @@
 ---
-title: Welcome to Stellar Creations
+title: Coming Soon
 ---
 
